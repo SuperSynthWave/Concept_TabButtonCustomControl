@@ -1,0 +1,13 @@
+C:\Users\Gagan\Desktop\testingApp\testingApp\bin\Debug\testingApp.exe.config
+C:\Users\Gagan\Desktop\testingApp\testingApp\bin\Debug\testingApp.exe
+C:\Users\Gagan\Desktop\testingApp\testingApp\bin\Debug\testingApp.pdb
+C:\Users\Gagan\Desktop\testingApp\testingApp\bin\Debug\TabButtonControl.dll
+C:\Users\Gagan\Desktop\testingApp\testingApp\bin\Debug\TabButtonControl.pdb
+C:\Users\Gagan\Desktop\testingApp\testingApp\obj\Debug\testingApp.csprojAssemblyReference.cache
+C:\Users\Gagan\Desktop\testingApp\testingApp\obj\Debug\testingApp.Form1.resources
+C:\Users\Gagan\Desktop\testingApp\testingApp\obj\Debug\testingApp.Properties.Resources.resources
+C:\Users\Gagan\Desktop\testingApp\testingApp\obj\Debug\testingApp.csproj.GenerateResource.cache
+C:\Users\Gagan\Desktop\testingApp\testingApp\obj\Debug\testingApp.csproj.CoreCompileInputs.cache
+C:\Users\Gagan\Desktop\testingApp\testingApp\obj\Debug\testingApp.csproj.CopyComplete
+C:\Users\Gagan\Desktop\testingApp\testingApp\obj\Debug\testingApp.exe
+C:\Users\Gagan\Desktop\testingApp\testingApp\obj\Debug\testingApp.pdb

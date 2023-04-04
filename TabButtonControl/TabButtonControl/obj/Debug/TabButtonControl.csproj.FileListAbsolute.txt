@@ -1,0 +1,6 @@
+C:\Users\Gagan\Desktop\TabButtonControl\TabButtonControl\bin\Debug\TabButtonControl.dll
+C:\Users\Gagan\Desktop\TabButtonControl\TabButtonControl\bin\Debug\TabButtonControl.pdb
+C:\Users\Gagan\Desktop\TabButtonControl\TabButtonControl\obj\Debug\TabButtonControl.csprojAssemblyReference.cache
+C:\Users\Gagan\Desktop\TabButtonControl\TabButtonControl\obj\Debug\TabButtonControl.csproj.CoreCompileInputs.cache
+C:\Users\Gagan\Desktop\TabButtonControl\TabButtonControl\obj\Debug\TabButtonControl.dll
+C:\Users\Gagan\Desktop\TabButtonControl\TabButtonControl\obj\Debug\TabButtonControl.pdb
