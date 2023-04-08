@@ -43,7 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs">
+    <Compile Include="codeTabCloseIcon.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="codeTabIcon.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="codeTabLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MainClass.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />

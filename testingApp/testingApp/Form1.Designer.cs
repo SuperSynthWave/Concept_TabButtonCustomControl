@@ -51,9 +51,12 @@
             // tabButton6
             // 
             this.tabButton6.Active = true;
+            this.tabButton6.ActiveBackgroundColor = System.Drawing.Color.Green;
             this.tabButton6.BackColor = System.Drawing.Color.Green;
             this.tabButton6.caption = "My Tab 1 axxnskjnkxnxkjanxakjxnakxjakxbajxhabsxjasxjhaxsjaxbsajxhbasjxhasxbajxh";
+            this.tabButton6.InActiveBackgroundColor = System.Drawing.Color.Green;
             this.tabButton6.Location = new System.Drawing.Point(240, 366);
+            this.tabButton6.MinimumSize = new System.Drawing.Size(20, 20);
             this.tabButton6.Name = "tabButton6";
             this.tabButton6.Size = new System.Drawing.Size(119, 32);
             this.tabButton6.tabCloseIcon = null;
@@ -63,9 +66,11 @@
             // tabButton5
             // 
             this.tabButton5.Active = false;
-            this.tabButton5.BackColor = System.Drawing.Color.Gray;
+            this.tabButton5.ActiveBackgroundColor = System.Drawing.Color.Green;
             this.tabButton5.caption = "My Tab 1 axxnskjnkxnxkjanxakjxnakxjakxbajxhabsxjasxjhaxsjaxbsajxhbasjxhasxbajxh";
+            this.tabButton5.InActiveBackgroundColor = System.Drawing.Color.Gray;
             this.tabButton5.Location = new System.Drawing.Point(94, 366);
+            this.tabButton5.MinimumSize = new System.Drawing.Size(20, 20);
             this.tabButton5.Name = "tabButton5";
             this.tabButton5.Size = new System.Drawing.Size(119, 51);
             this.tabButton5.tabCloseIcon = null;
@@ -75,9 +80,11 @@
             // tabButton4
             // 
             this.tabButton4.Active = false;
-            this.tabButton4.BackColor = System.Drawing.Color.Gray;
+            this.tabButton4.ActiveBackgroundColor = System.Drawing.Color.Green;
             this.tabButton4.caption = "My Tab 1 axxnskjnkxnxkjanxakjxnakxjakxbajxhabsxjasxjhaxsjaxbsajxhbasjxhasxbajxh";
+            this.tabButton4.InActiveBackgroundColor = System.Drawing.Color.Gray;
             this.tabButton4.Location = new System.Drawing.Point(310, 298);
+            this.tabButton4.MinimumSize = new System.Drawing.Size(20, 20);
             this.tabButton4.Name = "tabButton4";
             this.tabButton4.Size = new System.Drawing.Size(210, 51);
             this.tabButton4.tabCloseIcon = null;
@@ -87,9 +94,12 @@
             // tabButton3
             // 
             this.tabButton3.Active = true;
+            this.tabButton3.ActiveBackgroundColor = System.Drawing.Color.Green;
             this.tabButton3.BackColor = System.Drawing.Color.Green;
             this.tabButton3.caption = "My Tab 1 axxnskjnkxnxkjanxakjxnakxjakxbajxhabsxjasxjhaxsjaxbsajxhbasjxhasxbajxh";
+            this.tabButton3.InActiveBackgroundColor = System.Drawing.Color.Green;
             this.tabButton3.Location = new System.Drawing.Point(94, 298);
+            this.tabButton3.MinimumSize = new System.Drawing.Size(20, 20);
             this.tabButton3.Name = "tabButton3";
             this.tabButton3.Size = new System.Drawing.Size(210, 51);
             this.tabButton3.tabCloseIcon = null;
@@ -99,9 +109,11 @@
             // tabButton2
             // 
             this.tabButton2.Active = false;
-            this.tabButton2.BackColor = System.Drawing.Color.Gray;
+            this.tabButton2.ActiveBackgroundColor = System.Drawing.Color.Green;
             this.tabButton2.caption = "My Tab 1 axxnskjnkxnxkjanxakjxnakxjakxbajxhabsxjasxjhaxsjaxbsajxhbasjxhasxbajxh";
+            this.tabButton2.InActiveBackgroundColor = System.Drawing.Color.DimGray;
             this.tabButton2.Location = new System.Drawing.Point(94, 164);
+            this.tabButton2.MinimumSize = new System.Drawing.Size(20, 20);
             this.tabButton2.Name = "tabButton2";
             this.tabButton2.Size = new System.Drawing.Size(339, 103);
             this.tabButton2.tabCloseIcon = null;
@@ -111,12 +123,15 @@
             // tabButton1
             // 
             this.tabButton1.Active = true;
+            this.tabButton1.ActiveBackgroundColor = System.Drawing.Color.Green;
             this.tabButton1.AutoSize = true;
             this.tabButton1.BackColor = System.Drawing.Color.Green;
             this.tabButton1.caption = "My Tab 1 axxnskjnkxnxkjanxakjxnakxjakxbajxhabsxjasxjhaxsjaxbsajxhbasjxhasxbajxh";
+            this.tabButton1.InActiveBackgroundColor = System.Drawing.Color.Silver;
             this.tabButton1.Location = new System.Drawing.Point(94, 36);
+            this.tabButton1.MinimumSize = new System.Drawing.Size(20, 20);
             this.tabButton1.Name = "tabButton1";
-            this.tabButton1.Size = new System.Drawing.Size(339, 103);
+            this.tabButton1.Size = new System.Drawing.Size(410, 103);
             this.tabButton1.tabCloseIcon = null;
             this.tabButton1.tabIcon = null;
             this.tabButton1.TabIndex = 0;
