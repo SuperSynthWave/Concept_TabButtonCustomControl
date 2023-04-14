@@ -58,6 +58,7 @@
             this.tabButton6.Location = new System.Drawing.Point(240, 366);
             this.tabButton6.MinimumSize = new System.Drawing.Size(20, 20);
             this.tabButton6.Name = "tabButton6";
+            this.tabButton6.ParentTab = null;
             this.tabButton6.Size = new System.Drawing.Size(119, 32);
             this.tabButton6.tabCloseIcon = null;
             this.tabButton6.tabIcon = ((System.Drawing.Image)(resources.GetObject("tabButton6.tabIcon")));
@@ -67,11 +68,13 @@
             // 
             this.tabButton5.Active = false;
             this.tabButton5.ActiveBackgroundColor = System.Drawing.Color.Green;
+            this.tabButton5.BackColor = System.Drawing.Color.Gray;
             this.tabButton5.caption = "My Tab 1 axxnskjnkxnxkjanxakjxnakxjakxbajxhabsxjasxjhaxsjaxbsajxhbasjxhasxbajxh";
             this.tabButton5.InActiveBackgroundColor = System.Drawing.Color.Gray;
             this.tabButton5.Location = new System.Drawing.Point(94, 366);
             this.tabButton5.MinimumSize = new System.Drawing.Size(20, 20);
             this.tabButton5.Name = "tabButton5";
+            this.tabButton5.ParentTab = null;
             this.tabButton5.Size = new System.Drawing.Size(119, 51);
             this.tabButton5.tabCloseIcon = null;
             this.tabButton5.tabIcon = ((System.Drawing.Image)(resources.GetObject("tabButton5.tabIcon")));
@@ -81,11 +84,13 @@
             // 
             this.tabButton4.Active = false;
             this.tabButton4.ActiveBackgroundColor = System.Drawing.Color.Green;
+            this.tabButton4.BackColor = System.Drawing.Color.Gray;
             this.tabButton4.caption = "My Tab 1 axxnskjnkxnxkjanxakjxnakxjakxbajxhabsxjasxjhaxsjaxbsajxhbasjxhasxbajxh";
             this.tabButton4.InActiveBackgroundColor = System.Drawing.Color.Gray;
             this.tabButton4.Location = new System.Drawing.Point(310, 298);
             this.tabButton4.MinimumSize = new System.Drawing.Size(20, 20);
             this.tabButton4.Name = "tabButton4";
+            this.tabButton4.ParentTab = null;
             this.tabButton4.Size = new System.Drawing.Size(210, 51);
             this.tabButton4.tabCloseIcon = null;
             this.tabButton4.tabIcon = ((System.Drawing.Image)(resources.GetObject("tabButton4.tabIcon")));
@@ -101,6 +106,7 @@
             this.tabButton3.Location = new System.Drawing.Point(94, 298);
             this.tabButton3.MinimumSize = new System.Drawing.Size(20, 20);
             this.tabButton3.Name = "tabButton3";
+            this.tabButton3.ParentTab = null;
             this.tabButton3.Size = new System.Drawing.Size(210, 51);
             this.tabButton3.tabCloseIcon = null;
             this.tabButton3.tabIcon = ((System.Drawing.Image)(resources.GetObject("tabButton3.tabIcon")));
@@ -110,11 +116,13 @@
             // 
             this.tabButton2.Active = false;
             this.tabButton2.ActiveBackgroundColor = System.Drawing.Color.Green;
+            this.tabButton2.BackColor = System.Drawing.Color.DimGray;
             this.tabButton2.caption = "My Tab 1 axxnskjnkxnxkjanxakjxnakxjakxbajxhabsxjasxjhaxsjaxbsajxhbasjxhasxbajxh";
             this.tabButton2.InActiveBackgroundColor = System.Drawing.Color.DimGray;
             this.tabButton2.Location = new System.Drawing.Point(94, 164);
             this.tabButton2.MinimumSize = new System.Drawing.Size(20, 20);
             this.tabButton2.Name = "tabButton2";
+            this.tabButton2.ParentTab = null;
             this.tabButton2.Size = new System.Drawing.Size(339, 103);
             this.tabButton2.tabCloseIcon = null;
             this.tabButton2.tabIcon = ((System.Drawing.Image)(resources.GetObject("tabButton2.tabIcon")));
@@ -131,6 +139,7 @@
             this.tabButton1.Location = new System.Drawing.Point(94, 36);
             this.tabButton1.MinimumSize = new System.Drawing.Size(20, 20);
             this.tabButton1.Name = "tabButton1";
+            this.tabButton1.ParentTab = this.tabButton2;
             this.tabButton1.Size = new System.Drawing.Size(410, 103);
             this.tabButton1.tabCloseIcon = null;
             this.tabButton1.tabIcon = null;

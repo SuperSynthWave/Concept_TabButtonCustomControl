@@ -11,6 +11,40 @@ namespace TabButtonControl
 {
     public partial class TabButton : Panel
     {
+        private List<TabButton> _ChildrenTbas = new List<TabButton>();
+        public void AddChildTab(TabButton childTab)
+        {
+            try
+            {
+                if (_ChildrenTbas.Contains(childTab))
+                { return; }
+                else
+                {
+                    _ChildrenTbas.Add(childTab);
+                    childTab.ParentTab = this;
+                }
+                   
+            }
+            catch (Exception)
+            {
+                return;
+            }
+        }
+
+        private TabButton _prop_ParentTab;
+        public TabButton ParentTab
+        {
+            get { return _prop_ParentTab; }
+            set {
+                if(value != null) { 
+                _prop_ParentTab = value;
+                value.AddChildTab(this);
+                }
+            }
+        }
+
+        public Dictionary<string, string> DataDict = new Dictionary<string, string>();
+
         private bool _prop_active = true;
         public bool Active
         {
